@@ -18,7 +18,7 @@
 
 - ### $${\color{cyan}Install}$$
 ```sh
-wget -qO- https://raw.githubusercontent.com/Dhrumilpatel99/Burpsuite-Professional/main/install.sh | sudo bash
+ wget -qO- https://raw.githubusercontent.com/Dhrumilpatel99/Burpsuite-Professional-v2025/main/install.sh | sudo bash
 ```
 - ### $${\color{cyan}Run}$$
 ```sh
